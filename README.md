@@ -1,5 +1,3 @@
-# BiTree
-二叉树及可能用到的成员函数
 #include<iostream>
 #include<cstring>
 #include<cmath>
