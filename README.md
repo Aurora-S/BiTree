@@ -1,12 +1,6 @@
 # BiTree
 二叉树及可能用到的成员函数
-echo“＃BiTree”>> README.md 
-git init 
-git add README.md 
-git commit -m“第一次提交” 
-git remote add origin https://github.com/goto6666/BiTree.git
- git push -u origin master
- #include<iostream>
+#include<iostream>
 #include<cstring>
 #include<cmath>
 using namespace std;
